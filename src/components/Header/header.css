@@ -1,0 +1,12 @@
+header{
+    background-image: url('./extraVolunteer.png');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0 60px 0;
+    text-align: center;
+}
+header h1 {
+    color: blue;
+    font-size: 44px;
+    font-weight: bold;
+}
